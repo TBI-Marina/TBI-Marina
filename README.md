@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+About me:
+- 🔭 I’m currently working on Power BI dashboard, data analysis
+- 🌱 I’m currently learning dbt
+
+
 <!--
 **TBI-Marina/TBI-Marina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
