@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 About me:
-- 🔭 I’m currently working on Power BI dashboard, data analysis
-- 🌱 I’m currently learning dbt
+- 🔭 I’m currently working on
+  - Power BI dashboards
+  - data analysis
+- 🌱 I’m currently learning
+  - dbt
 
 
 <!--
